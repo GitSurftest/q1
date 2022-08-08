@@ -1,0 +1,23 @@
+{
+        "name": "q1",
+        "owners": [
+          "GitSurftest"
+        ],	"location": {
+		"area": "Barrow Street, Dublin",
+		"region" : "Leinster",
+		"country-code": "IE"
+	},
+	"features": {
+			"smokers": false,
+      "pets": false,
+      "wifi": true,
+      "washer": true,
+      "dryer": true
+  },
+	"offering": {
+		"bed": 0,
+		"couch": 1
+	},
+	"requests": [ ],
+	"merges": [ ]
+}
